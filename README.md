@@ -6,3 +6,4 @@
 
 4.[lab-5](https://github.com/Deepshithareddy/AIML_BATCH_3/blob/main/lab-5.ipynb)
 
+5.[lab-6](https://github.com/Deepshithareddy/AIML_BATCH_3/blob/main/lab-6.ipynb)
