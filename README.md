@@ -1,5 +1,7 @@
 1.[lab-1](https://github.com/Deepshithareddy/AIML_BATCH_3/blob/main/lab-1.ipynb)
 
+2.[lab-2](https://github.com/Deepshithareddy/AIML_BATCH_3/blob/main/lab-2.ipynb)
+
 3.[lab-3](https://github.com/Deepshithareddy/AIML_BATCH_3/blob/main/lab-3.ipynb)
 
 4.[lab-4](https://github.com/Deepshithareddy/AIML_BATCH_3/blob/main/lab-4.ipynb)
